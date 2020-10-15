@@ -1,2 +1,2 @@
 # Exercícios
- Exercícios desenvolvidos no curso utilizando javascript trabalhando com Canvas
+ Alguns Exercícios desenvolvidos no curso da Alura em lógica de programação.
